@@ -13,5 +13,6 @@ int main() {
     while(c != EOF);  // loop until the end of file is reached
     
     fclose(fp);
+    Printf ("The code modified")
     return 0;
 }
